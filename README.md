@@ -57,4 +57,5 @@ and link https://books.mozaikallc.com/
 
 ## Also on
 
+- Hugging Face: https://huggingface.co/datasets/Dimazales/romance-trope-taxonomy
 - GitHub: https://github.com/dimazales/romance-trope-taxonomy
