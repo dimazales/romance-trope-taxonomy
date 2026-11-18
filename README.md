@@ -58,5 +58,5 @@ and link https://books.mozaikallc.com/
 ## Also on
 
 - Hugging Face: https://huggingface.co/datasets/Dimazales/romance-trope-taxonomy
-- Kaggle: https://www.kaggle.com/datasets/dmozales/romance-trope-taxonomy
+- Kaggle: https://www.kaggle.com/datasets/mozaikapublications/romance-trope-taxonomy
 - GitHub: https://github.com/dimazales/romance-trope-taxonomy
