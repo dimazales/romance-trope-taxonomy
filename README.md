@@ -1,12 +1,12 @@
 # Romance trope taxonomy (multilingual)
 
-A reader-facing taxonomy of **118 romance tropes** — enemies to lovers, fake dating,
+A reader-facing taxonomy of **116 romance tropes** — enemies to lovers, fake dating,
 grumpy/sunshine, fated mates, forced proximity, second chance, and more — with labels, the search
 terms readers actually use, and short genre definitions in **English, German, French, Spanish,
 Italian, Brazilian Portuguese and Dutch**. Curated by [Mozaika Publications](https://mozaikallc.com/)
 from its multilingual romance catalog.
 
-Categories: subgenre (38), relationship-dynamic (30), character-archetype (11), plot-device (31), setting (5), tone-heat (3).
+Categories: subgenre (38), relationship-dynamic (30), character-archetype (11), plot-device (30), setting (5), tone-heat (2).
 
 ## Files
 
